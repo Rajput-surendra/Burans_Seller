@@ -9,7 +9,7 @@ final String iosPackage = 'com.burans.seller';
 // final String jwtKey = "68f05dec6014f68e760c5c5fa3e31bcf391a2e10";
 
 // final String baseUrl = 'https://alphawizztest.tk/ZuqZuq1/seller/app/v1/api/';
-final String baseUrl = 'https://developmentalphawizz.com/burans/seller/app/v1/api/';
+final String baseUrl = 'https://buransmart.in/seller/app/v1/api/';
 
 final String jwtKey = "78084f1698c9fcff5a668b68dcd103db39be2605";
 
